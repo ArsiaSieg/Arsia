@@ -13,7 +13,7 @@ CSS, HTML, JS, Python, C#. J'ai eu l'occasion de toucher à ces langages mais au
 ## Mes loisirs
 🎨 Infographie <br>
 🎮 Jeux vidéo & de société <br>
-🎼 Musique (je fais du piano amateur) <br>
+🎼 Musique (écouter & jouer) <br>
 🎯 Tir à l'arc <br> 
 🍣 Mangas & animes <br> 
 🍻 BBB (Boire une Bière dans un Bar)

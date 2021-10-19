@@ -2,7 +2,7 @@
 ## En reconversion pour les métiers du web 💻
 Bonjour à vous !<br>
 Je m'appelle Camille. Game et level designeuse en reconversion, je recherche à me reconvertir dans les métiers du web, et plus particulièrement comme web developer.
-CSS, HTML, JS, Python, C#. J'ai eu l'occasion de toucher à ces langages mais aujourd'hui, je veux en savoir plus. TOUJOURS PLUS !
+CSS, HTML, JS, Angular, Java. J'ai eu l'occasion de toucher à ces langages mais aujourd'hui, je veux en savoir plus. TOUJOURS PLUS !
 
 ## Ma personnalité
 🖌️ Créative <br>

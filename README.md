@@ -1,8 +1,7 @@
 # Camille LUCAS (aka Arsia)
 ## En reconversion pour les métiers du web 💻
 Bonjour à vous !<br>
-Je m'appelle Camille. Game et level designeuse en reconversion, je recherche à me reconvertir dans les métiers du web, et plus particulièrement comme web developer.
-CSS, HTML, JS, Angular, Java. J'ai eu l'occasion de toucher à ces langages mais aujourd'hui, je veux en savoir plus. TOUJOURS PLUS !
+Je m'appelle Camille. Ancienne game et level designeuse, je suis actuellement la formation Angular/JAVA de la Wild Code School de Lyon afin de me reconvertir dans le métier de développeur Web/Web mobile. HTML/CSS, JavaScript, Angular, JAVA. Ces langages n'auront bientôt plus de mystères pour moi (ou presque hé hé).
 
 ## Ma personnalité
 🖌️ Créative <br>

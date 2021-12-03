@@ -3,6 +3,12 @@
 Bonjour à vous !<br>
 Je m'appelle Camille. Ancienne game et level designeuse, je suis actuellement la formation Angular/JAVA de la Wild Code School de Lyon afin de me reconvertir dans le métier de développeur Web/Web mobile. HTML/CSS, JavaScript, Angular, JAVA. Ces langages n'auront bientôt plus de mystères pour moi (ou presque hé hé).
 
+## Les langages
+* HTML/CSS<br>
+* JavaScript<br>
+* TypeScript/Angular<br>
+* Java/Spring
+
 ## Ma personnalité
 🖌️ Créative <br>
 👀 Curieuse <br>
